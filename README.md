@@ -31,7 +31,7 @@ I am a full-stack developer who loves building solutions that make a difference!
 
 ### My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricio0312rev&layout=compact&theme=midnight-purple)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricio0312rev&layout=compact&theme=midnight-purple&count_private=true&langs_count=8)](https://github.com/patricio0312rev)
 
 [![Patricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patricio0312rev&show_icons=true&theme=midnight-purple&rank_icon=github&count_private=true&include_all_commits=true)](https://github.com/patricio0312rev)
 
