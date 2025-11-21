@@ -39,5 +39,5 @@ I am a full-stack developer who loves building solutions that make a difference!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patricio0312rev/patricio0312rev/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patricio0312rev/patricio0312rev/output/snake-light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/patricio0312rev/patricio0312rev/output/snake-dark.svg">
+  <img alt="My Contributions" src="https://raw.githubusercontent.com/patricio0312rev/patricio0312rev/output/snake-dark.svg">
 </picture>
