@@ -14,14 +14,14 @@ I am a full-stack developer who loves building solutions that make a difference!
 * 🧠 I love collaborating on open-source projects
 * 🖥️ See my portfolio at [www.patriciomarroquin.dev](https://www.patriciomarroquin.dev)
 * ✉️ You can contact me at [juan@patriciomarroquin.dev](mailto:juan@patriciomarroquin.dev)
-* ⚡ Fun fact: I compose poems and music on my free time!
+* ⚡ Fun fact: I love salsa dancing and composing music
 
 
 ### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,graphql,html,css,tailwind,php,laravel,mysql,postgres,mongodb,astro,fastapi,python,aws,gcp,vercel,redis,terraform&perline=8)](https://patriciomarroquin.dev)
 
-### MySocials
+### My Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricio0312rev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQ0lEQVR4nO3ZPUoDURSG4SOKnUbQVrDQHbgHBTNoKQp2lm7BRgIuxDXYGaMuxE7xh4BOKptXrkw15GbumMLvxvPCdGfu8DB/TGLmed6vAvaBATDi7xsBt0DRFnGJbr02Z0K9bgokXE7q9VMgJfp9pkCyyBwyY5Bn4BBYrbZj4JUMITsqj2ubErI8Zr5DhpBizHyXDCFvwAmwVm3hHnkhQ4hM5pBZgljCPgkzD9W7aB1YBJaAbeAceM8BEl6cuw3HXgGu1SGbjQe3n7kF4F4W0iZgA/iShwDzCTNXshDgDHiqRh+B0wmzR5IQ4KDN9zewpQq5iyw7iMx3VCHDyLLDyPycKmSqdes5JOQQc0g0h4QcYg6J5hC17D9BSvT7SIGEf0/Vu0mBFOi31wipMD10u0hC1H5l74vcM2W4nJLPhOd5Vu8bSoiEJ4CHE4IAAAAASUVORK5CYII=&logoColor=white)](https://www.linkedin.com/in/patricio0312rev)
