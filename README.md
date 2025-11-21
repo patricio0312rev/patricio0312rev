@@ -19,7 +19,7 @@ I am a full-stack developer who loves building solutions that make a difference!
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,graphql,html,css,tailwind,php,laravel,mysql,postgres,mongodb,astro,fastapi,python,aws,gcp,vercel,redis,terraform&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,graphql,html,css,tailwind,php,laravel,mysql,postgres,mongodb,astro,fastapi,python,aws,gcp,vercel,redis,terraform&perline=8)](https://patriciomarroquin.dev)
 
 ### MySocials
 
@@ -33,7 +33,7 @@ I am a full-stack developer who loves building solutions that make a difference!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricio0312rev&layout=compact&theme=midnight-purple)]()
 
-[![Patricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patricio0312rev&show_icons=true&theme=midnight-purple)]()
+[![Patricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patricio0312rev&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true)]()
 
 #
 
