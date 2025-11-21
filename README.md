@@ -31,10 +31,10 @@ I am a full-stack developer who loves building solutions that make a difference!
 
 ### My Stats
 
-[![Top Langs](https://portfolio-stats-no9mamu94-patricio0312revs-projects.vercel.app/api/top-langs/?username=patricio0312rev&layout=compact&theme=midnight-purple&count_private=true&langs_count=8)](https://github.com/patricio0312rev)
+[![Top Langs](https://portfolio-stats-phi.vercel.app/api/top-langs/?username=patricio0312rev&layout=compact&theme=midnight-purple&count_private=true&langs_count=8)](https://github.com/patricio0312rev)
 
 
-[![Patricio's GitHub Stats](https://portfolio-stats-no9mamu94-patricio0312revs-projects.vercel.app/api?username=patricio0312rev&show_icons=true&theme=midnight-purple&rank_icon=default&count_private=true&include_all_commits=true)](https://github.com/patricio0312rev)
+[![Patricio's GitHub Stats](https://portfolio-stats-phi.vercel.app/api?username=patricio0312rev&show_icons=true&theme=midnight-purple&rank_icon=default&count_private=true&include_all_commits=true)](https://github.com/patricio0312rev)
 
 
 #
