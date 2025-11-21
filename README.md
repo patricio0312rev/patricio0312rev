@@ -33,3 +33,11 @@ I am a full-stack developer who loves building solutions that make a difference!
 
 [![Patricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patricio0312rev&show_icons=true&theme=radical)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricio0312rev&layout=compact&theme=radical)]()
+
+#
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patricio0312rev/patricio0312rev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patricio0312rev/patricio0312rev/output/snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/patricio0312rev/patricio0312rev/output/snake-dark.svg">
+</picture>
