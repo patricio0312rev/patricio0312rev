@@ -10,7 +10,7 @@ I am a full-stack developer who loves building solutions that make a difference!
 * 🚀 Over 9 years of experience as software developer
 * 💼 Currently looking for new opportunities
 * 👨‍💻 I specialize in JavaScript/TypeScript, React, Node.js, Python, Web3, and AI
-* 🎓 I have a Bachelor's degree in Computer Engineering and a Master's degree in Computer Science
+* 🎓 I have a Bachelor's degree in Software Engineering and a Master's degree in Computer Science
 * 🧠 I love collaborating on open-source projects
 * 🖥️ See my portfolio at [www.patriciomarroquin.dev](https://www.patriciomarroquin.dev)
 * ✉️ Contact me at [juan@patriciomarroquin.dev](mailto:juan@patriciomarroquin.dev)
